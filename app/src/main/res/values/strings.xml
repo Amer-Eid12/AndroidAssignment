@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Trip Planner</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="destination">Destination</string>
+    <string name="date">Date</string>
+    <string name="requires_risk_assessment">Requires Risk Assessment</string>
+    <string name="all_inclusive">All-Inclusive</string>
+    <string name="family_friendly">Family Friendly</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="activities">Activities</string>
+    <string name="accommodations">Accommodations</string>
+    <string name="transportation">Transportation</string>
+    <string name="companions">Companions</string>
+    <string name="have_you_gone_on_this_trip">Have you gone on this trip?</string>
+    <string name="trip_history">Trip History</string>
+    <string name="no_upcoming_trips">No upcoming trips found.</string>
+    <string name="no_trip_history">No trip history found.</string>
+    <string name="trip_type">Trip Type</string>
+    <string name="family">Family</string>
+    <string name="friends">Friends</string>
+</resources>
